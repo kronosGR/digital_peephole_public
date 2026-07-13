@@ -1,17 +1,31 @@
 # 👁️ Digital Peephole v1.0.0
 
+<p align="center">
+  <img src="app_icon.png" width="128" height="128" alt="Digital Peephole Logo">
+</p>
+
 A high-performance, native network security utility for discovering and auditing devices on your local network. Available for Windows and Linux.
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="digital_peephole%201.jpeg" width="30%" alt="Device List Screen">
+  <img src="digital_peephole%202.jpeg" width="30%" alt="Active Scan Screen">
+  <img src="digital_peephole%203.jpeg" width="30%" alt="Settings Screen">
+</p>
 
 ---
 
 ## 📥 Downloads
 
 ### 🪟 Windows (10 / 11)
-*   **[Download Windows Installer (.exe)](https://github.com/kronosGR/digital_peephole/releases/download/v1.0.0/DigitalPeephole_Setup.exe)**
+*   **[Download Windows Installer (.exe)](https://github.com/YOUR_GITHUB_USERNAME/digital_peephole/releases/download/v1.0.0/DigitalPeephole_Setup.exe)**
     *   *Zero Configuration:* Works out of the box. No Admin rights or extra drivers (like Npcap) required.
 
 ### 🐧 Linux (Universal AppImage)
-*   **[Download Linux AppImage (.AppImage)](https://github.com/kronosGR/digital_peephole/releases/download/v1.0.0/Digital_Peephole-x86_64.AppImage)**
+*   **[Download Linux AppImage (.AppImage)](https://github.com/YOUR_GITHUB_USERNAME/digital_peephole/releases/download/v1.0.0/Digital_Peephole-x86_64.AppImage)**
     *   *Portable:* Single file that runs on openSUSE, Ubuntu, Fedora, and Mint.
     *   *How to run:* Right-click -> Properties -> Check "Allow executing as program" (or run `chmod +x` in terminal).
 
